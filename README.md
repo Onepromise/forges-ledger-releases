@@ -8,3 +8,5 @@ Official downloads for the **Forge's Ledger** desktop app (Windows).
 This repo hosts release files only — no source code. Every release lists **SHA-256 checksums** for its files in the release notes, so you can verify your download.
 
 Free, and always will be, per Blizzard's addon policy. By Forge at Crescent Cove.
+
+**Support the work (voluntary):** [Patreon — The Crescent Cove](https://www.patreon.com/c/TheCrescentCove) — Forge's Ledger stays completely free for everyone; Patreon is support only, with devlogs, credits, and roadmap votes. No paywalls, ever.
