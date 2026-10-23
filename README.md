@@ -1,1 +1,10 @@
-IyBGb3JnZSdzIExlZGdlciDigJQgRG93bmxvYWRzCgpPZmZpY2lhbCBkb3dubG9hZHMgZm9yIHRoZSAqKkZvcmdlJ3MgTGVkZ2VyKiogZGVza3RvcCBhcHAgKFdpbmRvd3MpLgoKKipHZXQgdGhlIGFkZG9uczoqKiBbQ3Vyc2VGb3JnZSDigJQgRm9yZ2UncyBMZWRnZXJdKGh0dHBzOi8vd3d3LmN1cnNlZm9yZ2UuY29tL3dvdy9hZGRvbnMvZm9yZ2VzLWxlZGdlcikKKipBYm91dCAvIGluc3RhbGwgZ3VpZGU6KiogW3RoZWNyZXNjZW50Y292ZS5jb20vZm9yZ2UtbGVkZ2VyXShodHRwczovL3RoZWNyZXNjZW50Y292ZS5jb20vZm9yZ2UtbGVkZ2VyKQoKVGhpcyByZXBvIGhvc3RzIHJlbGVhc2UgZmlsZXMgb25seSDigJQgbm8gc291cmNlIGNvZGUuIEV2ZXJ5IHJlbGVhc2UgbGlzdHMgKipTSEEtMjU2IGNoZWNrc3VtcyoqIGZvciBpdHMgZmlsZXMgaW4gdGhlIHJlbGVhc2Ugbm90ZXMsIHNvIHlvdSBjYW4gdmVyaWZ5IHlvdXIgZG93bmxvYWQuCgpGcmVlLCBhbmQgYWx3YXlzIHdpbGwgYmUsIHBlciBCbGl6emFyZCdzIGFkZG9uIHBvbGljeS4gQnkgRm9yZ2UgYXQgQ3Jlc2NlbnQgQ292ZS4K
+# Forge's Ledger — Downloads
+
+Official downloads for the **Forge's Ledger** desktop app (Windows).
+
+**Get the addons:** [CurseForge — Forge's Ledger](https://www.curseforge.com/wow/addons/forges-ledger)
+**About / install guide:** [thecrescentcove.com/forge-ledger](https://thecrescentcove.com/forge-ledger)
+
+This repo hosts release files only — no source code. Every release lists **SHA-256 checksums** for its files in the release notes, so you can verify your download.
+
+Free, and always will be, per Blizzard's addon policy. By Forge at Crescent Cove.
